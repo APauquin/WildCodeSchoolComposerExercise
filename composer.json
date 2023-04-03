@@ -1,0 +1,16 @@
+{
+    "name": "alex/composer",
+    "description": "Composer quest",
+    "autoload": {
+        "psr-4": {
+            "Alex\\Composer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "APauquin",
+            "email": "alexandrep123@yahoo.com"
+        }
+    ],
+    "require": {}
+}
