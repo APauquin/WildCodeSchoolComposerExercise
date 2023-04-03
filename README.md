@@ -1,2 +1,1 @@
 # WildCodeSchoolComposerExercise
-# WildCodeSchoolComposerExercise2
