@@ -3,7 +3,7 @@
     "description": "Composer quest",
     "autoload": {
         "psr-4": {
-            "Alex\\Composer\\": "src/"
+            "Alex\\Composer\\": "src/wcs/"
         }
     },
     "authors": [
